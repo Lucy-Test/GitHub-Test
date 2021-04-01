@@ -1,3 +1,3 @@
 # GitHub-Test
-Test GitHub
+Test GitHub.
 Lucy Test GibHub.
